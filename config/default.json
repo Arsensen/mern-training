@@ -1,5 +1,6 @@
 {
     "port": 3001,
     "MongoURI": "mongodb+srv://arest:araara31@cluster0.hcuxw.mongodb.net/tester",
-    "jwtSecret": "mern & Mongo learning"
+    "jwtSecret": "mern & Mongo learning",
+    "baseURL": "http://localhost:3001"
 }
